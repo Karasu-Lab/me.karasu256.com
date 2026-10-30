@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { geistSans, geistMono, notoSansJP } from '@Hashibutogarasu/ui/fonts';
+import { geistSans, geistMono, notoSansJP } from '@karasu-lab/ui/fonts';
 import './globals.css';
 
 export const metadata: Metadata = {

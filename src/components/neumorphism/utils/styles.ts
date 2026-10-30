@@ -1,4 +1,4 @@
-/** Sourced from the shared shadcn theme tokens (`@Hashibutogarasu/ui/styles/base.css`) so the neumorphism palette follows light/dark automatically instead of needing a hand-maintained dark copy. */
+/** Sourced from the shared shadcn theme tokens (`@karasu-lab/ui/styles/base.css`) so the neumorphism palette follows light/dark automatically instead of needing a hand-maintained dark copy. */
 export const neumorphColors = {
   background: 'var(--muted)',
   lightShadow: 'var(--background)',
