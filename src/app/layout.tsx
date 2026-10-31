@@ -6,8 +6,9 @@ export const metadata: Metadata = {
   title: 'Hashibutogarasu',
   description: 'Hashibutogarasuのポートフォリオサイトです。',
   icons: {
-    icon: '/icon_64.png',
-    apple: '/icon_64.png',
+    icon: '/icons/kara_su.png',
+    shortcut: '/icons/kara_su.png',
+    apple: '/icons/kara_su.png',
   },
   openGraph: {
     title: 'Hashibutogarasu',
