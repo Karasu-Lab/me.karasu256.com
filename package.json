@@ -10,7 +10,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@karasu-lab/ui": "0.1.0-ab4b5a1",
+    "@karasu-lab/ui": "0.1.0-170af7a",
     "@karasu-lab/utils": "0.1.0-967de79",
     "@base-ui/react": "^1.6.0",
     "class-variance-authority": "^0.7.1",
