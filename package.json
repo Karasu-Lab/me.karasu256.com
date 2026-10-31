@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@karasu-lab/ui": "0.1.0-4f34abc",
-    "@karasu-lab/utils": "0.1.0-925fa52",
+    "@karasu-lab/utils": "0.1.0-de578b8",
     "@base-ui/react": "^1.6.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
