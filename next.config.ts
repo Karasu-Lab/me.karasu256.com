@@ -1,7 +1,8 @@
 import type { NextConfig } from 'next';
+import { withUi } from '@karasu-lab/ui/next';
 
 const nextConfig: NextConfig = {
   /* config options here */
 };
 
-export default nextConfig;
+export default withUi(nextConfig);
